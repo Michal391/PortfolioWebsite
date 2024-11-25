@@ -43,11 +43,12 @@ const About = () => {
         variants={fadeIn("","",0.1,1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
-        ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat 
-        non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        I’m a Software Developer with a passion for learning new skills and improving on the ones I already
+        have. I would describe myself as an open minded individual, who brings a new and unorthodox way of
+        thinking to the work environment! I have great communication and listening skills. Solving problems
+        comes naturally to me as I am always trying to help people where I can and feel as if I would be able
+        to add value to the work environment. I have close to three years working experience, the majority of
+        my working experience consists of web development, database management and backend development.
 
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
